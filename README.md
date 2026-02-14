@@ -21,12 +21,21 @@
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rumitkoladiya&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumitkoladiya&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumitkoladiya&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a>
 </p>
