@@ -1,9 +1,9 @@
 <h1 align="center">Rumit Koladiya</h1>
-<p align="center">Full-Stack Developer · JavaScript (Advanced) · TypeScript · DevOps</p>
+<p align="center">Full-Stack Developer · JavaScript · TypeScript · DevOps</p>
 
 ---
 
-## Stack
+## Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,docker,aws,githubactions" />
@@ -11,16 +11,17 @@
 
 ---
 
-## Focus
+## Currently
 
-- Scalable backend systems
-- TypeScript mastery
-- System design fundamentals
-- CI/CD & cloud deployments
+<p align="center">
+  Building full-stack applications <br/>
+  Learning deeper TypeScript & backend architecture <br/>
+  Exploring cloud & deployment workflows
+</p>
 
 ---
 
-## Stats
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rumitkoladiya&show_icons=true&hide_border=true&theme=tokyonight" />
