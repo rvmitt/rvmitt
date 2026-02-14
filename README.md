@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Rumit 👋
 
-<!--
-**rumitkoladiya/RumitKoladiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | JavaScript Specialist | Currently mastering TypeScript  
+Building scalable web applications and backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Professional Focus
+
+- Writing production-level JavaScript
+- Deepening expertise in TypeScript
+- Designing scalable backend architectures
+- Learning DevOps & Cloud infrastructure (AWS, Docker, CI/CD)
+- Improving System Design & DSA
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### DevOps & Cloud
+- Docker
+- AWS
+- CI/CD
+
+### Languages
+- JavaScript (Advanced)
+- TypeScript (Learning & Applying)
+- Java
+
+---
+
+## 📈 2026 Goals
+
+- Build production-ready full-stack systems
+- Implement scalable authentication & payment flows
+- Deploy applications with complete CI/CD pipelines
+- Contribute to open-source projects
